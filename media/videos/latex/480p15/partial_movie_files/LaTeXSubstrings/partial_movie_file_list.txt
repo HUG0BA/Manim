@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/Programming/Manim/media/videos/latex/480p15/partial_movie_files/LaTeXSubstrings/1185818338_2744608490_223132457.mp4'
